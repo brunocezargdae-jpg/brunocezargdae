@@ -1,4 +1,4 @@
-# brunocezargdae
+# Olá, eu sou o Bruno 
 -Github 
 -Sou Bruno Cezar da Silva 
 -Estudante de desenvolvimento de sistemas 
